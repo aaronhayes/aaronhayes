@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Twitter](https://img.shields.io/badge/Twitter-@startupaaron-blue.svg)](https://twitter.com/@startupaaron)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AaronHayes-blue.svg)](https://www.linkedin.com/in/aaronhayes1/)
+
+
 Checkout some of my OSS pinned below - mostly around Hasura and React!
 
 
