@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Twitter](https://img.shields.io/badge/Twitter-@startupaaron-blue.svg)](https://twitter.com/@startupaaron)
+[![Twitter](https://img.shields.io/badge/Twitter-@_aaronhayes-blue.svg)](https://twitter.com/@_aaronhayes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AaronHayes-blue.svg)](https://www.linkedin.com/in/aaronhayes1/)
 
 
